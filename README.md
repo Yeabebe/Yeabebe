@@ -47,16 +47,6 @@ I’m a passionate technologist working at the intersection of **engineering, so
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeabsera&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeabsera&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [](https://www.linkedin.com/in/yeabsera-abebe-1a2535297/)
