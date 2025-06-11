@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a passionate technologist working at the intersection of **engineering, software, and artificial intelligence**. With hands-on experience in front-end development and a growing background in AI, I thrive on creating digital tools that solve real-world problems.
 
