@@ -22,7 +22,7 @@ I’m a passionate technologist working at the intersection of **engineering, so
 - 🎯 Goals:
   - Contribute to open-source projects
   - Build software that improves lives in Africa
-  - Launch my own tech product 🚀
+  - Launch my own tech product 
 
 ---
 
