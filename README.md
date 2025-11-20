@@ -14,7 +14,7 @@ I’m a passionate technologist working at the intersection of **engineering, so
 -  Currently working on:
   - Artificial General Intelligence @iCog Labs
 
-- 🌱 Learning:
+- Learning:
   - Full-stack development
   - AI model integration into web apps
   - Product-led growth strategies
@@ -40,7 +40,7 @@ I’m a passionate technologist working at the intersection of **engineering, so
 
 </p>
 
-### 🧠 Concepts
+### Concepts
 - Front-End Architecture & UI/UX
 - Responsive Design
 - API Integration
