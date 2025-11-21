@@ -19,7 +19,7 @@ I’m a passionate technologist working at the intersection of **engineering, so
   - AI model integration into web apps
   - Product-led growth strategies
 
-- 🎯 Goals:
+- Goals:
   - Contribute to open-source projects
   - Build software that improves lives in Africa
   - Launch my own tech product 
