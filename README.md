@@ -26,7 +26,7 @@ I’m a passionate technologist working at the intersection of **engineering, so
 
 ---
 
-## 💼 Skills
+## Skills
 
 ### Languages & Tools
 <p>
