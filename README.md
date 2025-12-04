@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Electrical & Computer Engineer | 💻 Front-end Developer | 🤖 AI & ML Enthusiast <br/>
-   Based in Addis Ababa, Ethiopia | 🎓 Lifelong Learner
+   Based in Addis Ababa, Ethiopia | Lifelong Learner
 </p>
 
 ---
