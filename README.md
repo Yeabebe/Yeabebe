@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yeabsera 👋</h1>
 
 <p align="center">
-  🚀 Electrical & Computer Engineer | 💻 Front-end Developer | 🤖 AI & ML Enthusiast <br/>
+  🚀 Electrical & Computer Engineer | 💻 Front-end Developer | AI & ML Enthusiast <br/>
    Based in Addis Ababa, Ethiopia | Lifelong Learner
 </p>
 
