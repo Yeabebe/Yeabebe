@@ -9,7 +9,7 @@
 
 ## About Me
 
-I’m a passionate technologist working at the intersection of **Engineering, Software, and artificial intelligence**. With hands-on experience in front-end development and a growing background in AI, I thrive on creating digital tools that solve real-world problems.
+I’m a passionate technologist working at the intersection of **Engineering, Software, and Artificial intelligence**. With hands-on experience in front-end development and a growing background in AI, I thrive on creating digital tools that solve real-world problems.
 
 -  Currently working on:
   - Artificial General Intelligence @iCog Labs
