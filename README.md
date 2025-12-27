@@ -16,13 +16,9 @@ I’m a passionate technologist working at the intersection of **Engineering, So
 
 - Learning:
   - Full-stack development
-  - AI model integration into web apps
+  - AI model integration 
   - Product-led growth strategies
 
-- Goals:
-  - Contribute to open-source projects
-  - Build software that improves lives in Africa
-  - Launch my own tech product 
 
 ---
 
