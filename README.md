@@ -11,7 +11,7 @@
 
 I’m a passionate technologist working at the intersection of **Engineering, Software, and Artificial Intelligence**. With hands-on experience in Front-End development and a growing background in AI, I thrive on creating digital tools that solve real-world problems.
 
--  Currently working on:
+- Currently working on:
   - Artificial General Intelligence @iCog Labs 
 
 - Learning:
