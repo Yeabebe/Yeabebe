@@ -48,7 +48,7 @@ I’m a passionate technologist working at the intersection of **Engineering, So
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/yeabsera-abebe-1a2535297/
-- Portfolio: [Coming soon]
+- Portfolio: [Coming soon...]
 - Projects & Blogs: [Mindplex Contributor](https://magazine.mindplex.ai/profile/yeabsera)
 
 ---
