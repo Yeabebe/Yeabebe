@@ -2,8 +2,7 @@
 
 <p align="center">
   Electrical & Computer Engineer | Full-Stack Developer | AI & ML Enthusiast <br/>
-   Based in Addis Ababa, Ethiopia | Lifelong Learner
-</p>
+   </p>
 
 ---
 
